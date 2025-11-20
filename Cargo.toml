@@ -19,8 +19,8 @@ readme = "README.md"
 
 [dependencies]
 
-[profile.release]
-panic = "abort"
-strip = true
-codegen-units = 1
-lto = true
+# [profile.release]
+# panic = "abort"
+# strip = true
+# codegen-units = 1
+# lto = true
